@@ -109,7 +109,7 @@ export const ConsentScreenScene: React.FC = () => {
                 marginTop: 6,
               }}
             >
-              yatiroffer@gmail.com
+              jordan@example.com
             </div>
           </div>
         </div>

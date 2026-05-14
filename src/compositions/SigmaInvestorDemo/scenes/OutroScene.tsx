@@ -234,7 +234,7 @@ export const OutroScene: React.FC = () => {
             fontFamily: FONTS.body,
           }}
         >
-          yatiroffer@gmail.com
+          jordan@example.com
         </div>
         <div
           style={{
@@ -243,7 +243,7 @@ export const OutroScene: React.FC = () => {
             fontFamily: FONTS.body,
           }}
         >
-          +972-54-633-0446
+          +1 (555) 0142
         </div>
         <div
           style={{
@@ -253,7 +253,7 @@ export const OutroScene: React.FC = () => {
             marginTop: 8,
           }}
         >
-          linkedin.com/in/yatiroffer
+          linkedin.com/in/jordan-avery
         </div>
       </div>
     </AbsoluteFill>

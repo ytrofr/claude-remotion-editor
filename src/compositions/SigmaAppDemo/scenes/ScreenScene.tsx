@@ -267,7 +267,7 @@ const ClosingScene: React.FC<{
               color: COLORS.textMuted,
             }}
           >
-            yatiroffer@gmail.com · +972-54-633-0446
+            jordan@example.com · +1 (555) 0142
           </p>
           <p
             style={{
